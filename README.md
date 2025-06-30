@@ -81,7 +81,7 @@ The Linear Regression model built in this project provides valuable insights int
 
 ---
 
-## 📌 How to Run
+## How to Run
 
 1. Clone the repository
 2. Install dependencies:  
